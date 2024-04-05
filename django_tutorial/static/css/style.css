@@ -1,0 +1,17 @@
+li:hover {
+    background-color: rgb(146, 146, 227);
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: rgb(146, 146, 227);
+    height: 8px;
+    width: 30px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+}
+
+.bg-success {
+    background-color: rgb(146, 146, 227);
+}
